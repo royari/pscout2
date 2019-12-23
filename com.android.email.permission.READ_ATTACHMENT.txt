@@ -1,0 +1,2 @@
+Lcom/android/email/provider/AttachmentProvider;->LCONTENT_UR;)Landroid/net/Uri;
+Lcom/android/emailcommon/utility/AttachmentUtilities;->LCONTENT_UR;)Landroid/net/Uri;

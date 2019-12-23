@@ -1,0 +1,12 @@
+Landroid/hardware/ISerialManager$Stub$Proxy;->getSerialPorts()[Ljava/lang/String;
+Landroid/hardware/SerialManager;->getSerialPorts()[Ljava/lang/String;
+Landroid/hardware/ISerialManager;->openSerialPort(Ljava/lang/String;)Landroid/os/ParcelFileDescriptor;
+Landroid/hardware/SerialManager;->openSerialPort(Ljava/lang/String;I)Landroid/hardware/SerialPort;
+Landroid/hardware/ISerialManager$Stub;->getSerialPorts()[Ljava/lang/String;
+Lcom/android/server/SerialService;->openSerialPort(Ljava/lang/String;)Landroid/os/ParcelFileDescriptor;
+Landroid/hardware/ISerialManager$Stub;->onTransact(ILandroid/os/Parcel;Landroid/os/Parcel;I)Z
+Landroid/hardware/ISerialManager$Stub$Proxy;->openSerialPort(Ljava/lang/String;)Landroid/os/ParcelFileDescriptor;
+Landroid/hardware/ISerialManager;->getSerialPorts()[Ljava/lang/String;
+Lcom/android/server/SerialService;->getSerialPorts()[Ljava/lang/String;
+Landroid/hardware/ISerialManager$Stub;->openSerialPort(Ljava/lang/String;)Landroid/os/ParcelFileDescriptor;
+Lcom/android/server/SerialService;->onTransact(ILandroid/os/Parcel;Landroid/os/Parcel;I)Z

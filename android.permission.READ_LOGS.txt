@@ -1,0 +1,7 @@
+Lcom/android/internal/os/IDropBoxManagerService$Stub;->onTransact(ILandroid/os/Parcel;Landroid/os/Parcel;I)Z
+Lcom/android/internal/os/IDropBoxManagerService;->getNextEntry(Ljava/lang/String;J)Landroid/os/DropBoxManager$Entry;
+Lcom/android/server/DropBoxManagerService;->onTransact(ILandroid/os/Parcel;Landroid/os/Parcel;I)Z
+Lcom/android/internal/os/IDropBoxManagerService$Stub;->getNextEntry(Ljava/lang/String;J)Landroid/os/DropBoxManager$Entry;
+Landroid/os/DropBoxManager;->getNextEntry(Ljava/lang/String;J)Landroid/os/DropBoxManager$Entry;
+Lcom/android/internal/os/IDropBoxManagerService$Stub$Proxy;->getNextEntry(Ljava/lang/String;J)Landroid/os/DropBoxManager$Entry;
+Lcom/android/server/DropBoxManagerService;->getNextEntry(Ljava/lang/String;J)Landroid/os/DropBoxManager$Entry;

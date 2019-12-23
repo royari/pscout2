@@ -1,0 +1,4 @@
+Lcom/android/launcher2/LauncherSettings$Favorites;->LCONTENT_URI_NO_NOTIFICATIO;)Landroid/net/Uri;
+Lcom/android/onetimeinitializer/OneTimeInitializerService;->LLAUNCHER_CONTENT_UR;)Landroid/net/Uri;
+Lcom/android/launcher2/LauncherProvider;->LCONTENT_APPWIDGET_RESET_UR;)Landroid/net/Uri;
+Lcom/android/launcher2/LauncherSettings$Favorites;->LCONTENT_UR;)Landroid/net/Uri;

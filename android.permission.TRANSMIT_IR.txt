@@ -1,0 +1,12 @@
+Lcom/android/server/ConsumerIrService;->transmit(Ljava/lang/String;I[Lint;)V
+Landroid/hardware/IConsumerIrService$Stub$Proxy;->transmit(Ljava/lang/String;I[Lint;)V
+Landroid/hardware/IConsumerIrService$Stub;->onTransact(ILandroid/os/Parcel;Landroid/os/Parcel;I)Z
+Landroid/hardware/IConsumerIrService;->transmit(Ljava/lang/String;I[Lint;)V
+Landroid/hardware/IConsumerIrService$Stub;->getCarrierFrequencies()[Lint;
+Landroid/hardware/IConsumerIrService$Stub$Proxy;->getCarrierFrequencies()[Lint;
+Lcom/android/server/ConsumerIrService;->onTransact(ILandroid/os/Parcel;Landroid/os/Parcel;I)Z
+Landroid/hardware/IConsumerIrService$Stub;->transmit(Ljava/lang/String;I[Lint;)V
+Landroid/hardware/ConsumerIrManager;->transmit(I[Lint;)V
+Lcom/android/server/ConsumerIrService;->getCarrierFrequencies()[Lint;
+Landroid/hardware/IConsumerIrService;->getCarrierFrequencies()[Lint;
+Landroid/hardware/ConsumerIrManager;->getCarrierFrequencies()[Landroid/hardware/ConsumerIrManager$CarrierFrequencyRange;

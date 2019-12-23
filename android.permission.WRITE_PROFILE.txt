@@ -1,0 +1,5 @@
+Lcom/android/providers/contacts/ProfileProvider;->enforceWritePermission()V
+Lcom/android/providers/contacts/ProfileProvider;->openAssetFile(Landroid/net/Uri;Ljava/lang/String;)Landroid/content/res/AssetFileDescriptor;
+Lcom/android/providers/contacts/ProfileProvider;->insertInTransaction(Landroid/net/Uri;Landroid/content/ContentValues;)Landroid/net/Uri;
+Lcom/android/providers/contacts/ProfileProvider;->deleteInTransaction(Landroid/net/Uri;Ljava/lang/String;[Ljava/lang/String;)I
+Lcom/android/providers/contacts/ProfileProvider;->updateInTransaction(Landroid/net/Uri;Landroid/content/ContentValues;Ljava/lang/String;[Ljava/lang/String;)I

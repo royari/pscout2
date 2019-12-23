@@ -1,0 +1,3 @@
+Landroid/media/tv/TvContract$Channels;->LCONTENT_UR;)Landroid/net/Uri;
+Landroid/media/tv/TvContract$Programs;->LCONTENT_UR;)Landroid/net/Uri;
+Landroid/media/tv/TvContract$WatchedPrograms;->LCONTENT_UR;)Landroid/net/Uri;

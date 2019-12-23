@@ -1,0 +1,2 @@
+Lcom/android/phone/OutgoingCallBroadcaster;->onCreate(Landroid/os/Bundle;)V
+Lcom/android/phone/OutgoingCallBroadcaster;->processIntent(Landroid/content/Intent;)V

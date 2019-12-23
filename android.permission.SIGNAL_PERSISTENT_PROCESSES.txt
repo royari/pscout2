@@ -1,0 +1,8 @@
+Landroid/app/ActivityManagerNative;->signalPersistentProcesses(I)V
+Landroid/app/ActivityManagerNative;->onTransact(ILandroid/os/Parcel;Landroid/os/Parcel;I)Z
+Lcom/android/commands/monkey/Monkey;->main([Ljava/lang/String;)V
+Lcom/android/commands/monkey/Monkey;->run([Ljava/lang/String;)I
+Lcom/android/commands/monkey/Monkey;->signalPersistentProcesses()V
+Lcom/android/server/am/ActivityManagerService;->signalPersistentProcesses(I)V
+Landroid/app/IActivityManager;->signalPersistentProcesses(I)V
+Lcom/android/server/am/ActivityManagerService;->onTransact(ILandroid/os/Parcel;Landroid/os/Parcel;I)Z

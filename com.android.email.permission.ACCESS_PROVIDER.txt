@@ -1,0 +1,10 @@
+Lcom/android/email/provider/EmailProvider;->LFOLDER_REFRESH_UR;)Landroid/net/Uri;
+Lcom/android/email/provider/EmailContent;->LCONTENT_UR;)Landroid/net/Uri;
+Lcom/android/email/provider/EmailProvider;->LACCOUNT_BACKUP_UR;)Landroid/net/Uri;
+Lcom/android/emailcommon/provider/EmailContent;->LCONTENT_NOTIFIER_UR;)Landroid/net/Uri;
+Lcom/android/email/provider/EmailProvider;->LFOLDER_STATUS_UR;)Landroid/net/Uri;
+Lcom/android/emailcommon/provider/EmailContent;->LCONTENT_UR;)Landroid/net/Uri;
+Lcom/android/exchange/provider/ExchangeProvider;->LGAL_UR;)Landroid/net/Uri;
+Lcom/android/emailcommon/provider/EmailContent;->LMAILBOX_MOST_RECENT_MESSAGE_UR;)Landroid/net/Uri;
+Lcom/android/email/provider/EmailProvider;->LINTEGRITY_CHECK_UR;)Landroid/net/Uri;
+Lcom/android/emailcommon/provider/EmailContent;->LMAILBOX_NOTIFICATION_UR;)Landroid/net/Uri;

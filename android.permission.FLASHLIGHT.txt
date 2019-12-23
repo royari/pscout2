@@ -1,0 +1,8 @@
+Landroid/os/IHardwareService$Stub;->onTransact(ILandroid/os/Parcel;Landroid/os/Parcel;I)Z
+Lcom/android/server/lights/LightsService$1;->setFlashlightEnabled(Z)V
+Lcom/android/server/LightsService$1;->onTransact(ILandroid/os/Parcel;Landroid/os/Parcel;I)Z
+Lcom/android/server/lights/LightsService$1;->onTransact(ILandroid/os/Parcel;Landroid/os/Parcel;I)Z
+Landroid/os/IHardwareService$Stub$Proxy;->setFlashlightEnabled(Z)V
+Landroid/os/IHardwareService;->setFlashlightEnabled(Z)V
+Lcom/android/server/LightsService$1;->setFlashlightEnabled(Z)V
+Landroid/os/IHardwareService$Stub;->setFlashlightEnabled(Z)V

@@ -1,0 +1,7 @@
+Landroid/location/LocationManager;->sendExtraCommand(Ljava/lang/String;Ljava/lang/String;Landroid/os/Bundle;)Z
+Landroid/location/ILocationManager$Stub;->sendExtraCommand(Ljava/lang/String;Ljava/lang/String;Landroid/os/Bundle;)Z
+Lcom/android/server/LocationManagerService;->onTransact(ILandroid/os/Parcel;Landroid/os/Parcel;I)Z
+Landroid/location/ILocationManager$Stub$Proxy;->sendExtraCommand(Ljava/lang/String;Ljava/lang/String;Landroid/os/Bundle;)Z
+Lcom/android/server/LocationManagerService;->sendExtraCommand(Ljava/lang/String;Ljava/lang/String;Landroid/os/Bundle;)Z
+Landroid/location/ILocationManager;->sendExtraCommand(Ljava/lang/String;Ljava/lang/String;Landroid/os/Bundle;)Z
+Landroid/location/ILocationManager$Stub;->onTransact(ILandroid/os/Parcel;Landroid/os/Parcel;I)Z

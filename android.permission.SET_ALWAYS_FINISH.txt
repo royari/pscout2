@@ -1,0 +1,10 @@
+Landroid/app/ActivityManagerNative;->onTransact(ILandroid/os/Parcel;Landroid/os/Parcel;I)Z
+Landroid/app/IActivityManager;->setAlwaysFinish(Z)V
+Landroid/app/ActivityManagerNative;->setAlwaysFinish(Z)V
+Lcom/android/development/DevelopmentSettings;->access$400(Lcom/android/development/DevelopmentSettings;)V
+Lcom/android/settings/DevelopmentSettings;->onPreferenceTreeClick(Landroid/preference/PreferenceScreen;Landroid/preference/Preference;)Z
+Lcom/android/development/DevelopmentSettings$3;->onClick(Landroid/view/View;)V
+Lcom/android/settings/DevelopmentSettings;->writeImmediatelyDestroyActivitiesOptions()V
+Lcom/android/server/am/ActivityManagerService;->setAlwaysFinish(Z)V
+Lcom/android/server/am/ActivityManagerService;->onTransact(ILandroid/os/Parcel;Landroid/os/Parcel;I)Z
+Lcom/android/development/DevelopmentSettings;->writeFinishOptions()V

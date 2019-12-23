@@ -1,0 +1,2 @@
+Landroid/provider/Downloads$Impl;->LCONTENT_UR;)Landroid/net/Uri;
+Landroid/provider/Downloads;->LCONTENT_UR;)Landroid/net/Uri;

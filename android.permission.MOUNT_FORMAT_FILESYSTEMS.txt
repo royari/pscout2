@@ -1,0 +1,13 @@
+Lcom/android/internal/app/ExternalMediaFormatActivity;->onClick(Landroid/content/DialogInterface;I)V
+Landroid/os/storage/IMountService$Stub$Proxy;->formatVolume(Ljava/lang/String;)I
+Landroid/os/storage/IMountService$Stub;->onTransact(ILandroid/os/Parcel;Landroid/os/Parcel;I)Z
+Lcom/android/server/MountService;->onTransact(ILandroid/os/Parcel;Landroid/os/Parcel;I)Z
+Lcom/android/internal/os/storage/ExternalStorageFormatter;->updateProgressState()V
+Lcom/android/settings/MediaFormat$1;->onClick(Landroid/view/View;)V
+Landroid/os/storage/IMountService;->formatVolume(Ljava/lang/String;)I
+Lcom/android/internal/os/storage/ExternalStorageFormatter;->onStartCommand(Landroid/content/Intent;II)I
+Lcom/android/settings/MediaFormat$1$1;->run()V
+Lcom/android/server/MountService;->formatVolume(Ljava/lang/String;)I
+Lcom/android/internal/os/storage/ExternalStorageFormatter$1;->onStorageStateChanged(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+Lcom/android/internal/os/storage/ExternalStorageFormatter$2;->run()V
+Landroid/os/storage/IMountService$Stub;->formatVolume(Ljava/lang/String;)I

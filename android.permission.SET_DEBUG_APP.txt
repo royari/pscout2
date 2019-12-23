@@ -1,0 +1,14 @@
+Lcom/android/server/am/ActivityManagerService;->setDebugApp(Ljava/lang/String;ZZ)V
+Landroid/app/ActivityManagerNative;->setDebugApp(Ljava/lang/String;ZZ)V
+Lcom/android/commands/am/Am;->runClearDebugApp()V
+Landroid/app/ActivityManagerNative;->onTransact(ILandroid/os/Parcel;Landroid/os/Parcel;I)Z
+Lcom/android/development/DevelopmentSettings;->writeDebugOptions()V
+Lcom/android/development/DevelopmentSettings;->access$100(Lcom/android/development/DevelopmentSettings;)V
+Lcom/android/commands/am/Am;->main([Ljava/lang/String;)V
+Lcom/android/development/AppPicker;->onListItemClick(Landroid/widget/ListView;Landroid/view/View;IJ)V
+Lcom/android/development/DevelopmentSettings$2;->onClick(Landroid/view/View;)V
+Lcom/android/commands/am/Am;->run([Ljava/lang/String;)V
+Lcom/android/development/DevelopmentSettings;->onActivityResult(IILandroid/content/Intent;)V
+Lcom/android/server/am/ActivityManagerService;->onTransact(ILandroid/os/Parcel;Landroid/os/Parcel;I)Z
+Lcom/android/commands/am/Am;->runSetDebugApp()V
+Landroid/app/IActivityManager;->setDebugApp(Ljava/lang/String;ZZ)V
